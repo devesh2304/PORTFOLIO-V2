@@ -6,7 +6,7 @@
 
 
 **Live Portfolio:**  
-https://devesh2304.github.io/My-Portfolio/
+https://dkumar-ai.github.io/PORTFOLIO-V2/
 
 ---
 
